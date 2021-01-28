@@ -43,7 +43,7 @@ The appointment of Microsoft services to the Digital Marketplace means that UK g
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Power Automate (formerly Microsoft Flow) cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
-- Office 365: Exchange Online, SharePoint Online, and Skype for Business Online
+- Office 365: Exchange Online, SharePoint Online, and Teams
 - PowerApps cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
 - Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
 
